@@ -1,19 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?>
-<section xml:id="section-1" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>My First Section</title>
-  <introduction>
-    <p>Some words</p>
-  </introduction>
-  <subsection xml:id="subsection-1">
-    <title>My First Subsection</title>
-    <p>Some more words</p>
-    <p>foo</p>
-    <figure>
-      <caption>A frog</caption>
-      <image source="frog.jpg" width="50%">
-        <description>A nice-looking frog with a longish description.</description>
-      </image>
-    </figure>
-    <p>Bar: <m>\foo</m></p>
-  </subsection>
+<section xml:id="section-course-requirements">
+  <title>What do we require for this course?</title>
+
+  <ul>
+    <li>
+      We will mostly follow the textbook
+      <url href="https://cofc.bncollege.com/course-material-listing-page?utm_campaign=storeId=65075_langId=-1_courseData=MATH_103_10_202410&amp;utm_source=wcs&amp;utm_medium=registration_integration">
+        Excursions in Modern Mathematics
+      </url>,
+      by Peter Tannenbaum, 10th edition.
+    </li>
+
+    <li>
+      We also use <em>Set Theory and Logic</em> by A. Calini, E. Jurisich, and S. Shields,
+      available in OAKS.
+    </li>
+
+    <li>
+      We require a reasonable laptop, microphone, webcam, and internet access.
+      CofC provided laptop suggestions at
+      <url href="https://it.cofc.edu/laptops/">this link</url>.
+    </li>
+
+    <li>
+      We require you to create a Gradescope account to see feedback for tests.
+      More details will be posted after the first test.
+      Please refrain from creating an account until you receive the link and instructions.
+    </li>
+  </ul>
 </section>
