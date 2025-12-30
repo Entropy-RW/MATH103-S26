@@ -1,6 +1,7 @@
-<section xml:id="section-course-requirements">
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="section-course-requirements" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>What do we require for this course?</title>
-
+<p>
   <ul>
     <li>
       We will mostly follow the textbook
@@ -27,4 +28,5 @@
       Please refrain from creating an account until you receive the link and instructions.
     </li>
   </ul>
+</p>
 </section>

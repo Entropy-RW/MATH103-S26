@@ -1,0 +1,47 @@
+<section xml:id="section-learning-outcomes">
+  <title>What are the learning outcomes of MATH 103?</title>
+<p> </p>
+  <subsection xml:id="subsection-prerequisites">
+    <title>Prerequisites</title>
+    <p>Math 101 or placement</p>
+  </subsection>
+
+  <subsection xml:id="subsection-course-description">
+    <title>Course Description</title>
+    <p>
+      This course is designed for students who are not planning to take more advanced mathematics courses
+      and are interested in learning about the central role of Mathematics in the modern world.
+      The course will help students develop analytical skills and the ability to read and write
+      expositions of mathematical ideas suitable for a well-educated non-expert reader.
+      A wide range of topics will be discussed, including logic, voting theory and fair division,
+      graphs and networks, and symmetry in art and nature.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsection-general-education-outcomes">
+    <title>General Education Student Learning Outcomes</title>
+    <p>
+      Students are expected to display a thorough understanding of the topics covered. In particular,
+      upon completion of the course, students will be able to:
+    </p>
+    <paragraphs>
+      <ul>
+        <li>Model phenomena in mathematical terms.</li>
+        <li>Solve problems using these models.</li>
+        <li>Demonstrate an understanding of the supporting theory behind the models apart from any particular application.</li>
+      </ul>
+    </paragraphs>
+  </subsection>
+
+  <subsection xml:id="subsection-course-specific-outcomes">
+    <title>Course Specific Student Learning Outcomes</title>
+    <paragraphs>
+      <ul>
+        <li>Translate English expressions into expressions of Propositional Logic to determine the relation between a complex sentence and its parts in a systematic and unambiguous way.</li>
+        <li>Employ methods of Propositional Logic, including truth tables, to determine under what conditions statements are true or false, and when logical arguments are valid or invalid.</li>
+        <li>Use basic logic, algebra, counting techniques, and combinatorics to solve problems arising in a variety of contemporary application areas, that may include social sciences, management science, finance, and art.</li>
+      </ul>
+    </paragraphs>
+    <p>These outcomes will be assessed on the tests and quizzes.</p>
+  </subsection>
+</section>

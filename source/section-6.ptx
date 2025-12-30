@@ -1,0 +1,62 @@
+<section xml:id="section-office-hours">
+  <title>When are our office hours?</title>
+
+  <p>
+    Office hours are the best way to ask your math questions and communicate anything about the course privately 
+    (or as part of a group if you want). I provide both in-person and Zoom office hours.
+  </p>
+
+  <subsection xml:id="subsection-inperson-office-hours">
+    <title>In-person / Drop off</title>
+    <p>Tuesdays and Thursdays</p>
+    <paragraphs>
+      <ul>
+        <li>
+            <p>You can simply stop by my office, RSS 348, during the following time-slots:</p>
+    
+          <ul>
+            <li>Tu, Th 9:40–10:40 AM (except for Nov 21)</li>
+            <li>Tu, Th 1:40–2:40 PM (except for Nov 21)</li>
+          </ul>
+        </li>
+        <li>No appointment is needed for in-person office hours.</li>
+        <li>In-person office hours are first come, first served.</li>
+        <li>
+          Please be prepared for office hours when you ask math questions.
+          The purpose is to help you understand a concept or problems that you have spent time on
+          (studied all related topics, read the textbook, solved other examples, etc.).
+        </li>
+      </ul>
+    </paragraphs>
+  </subsection>
+
+  <subsection xml:id="subsection-zoom-office-hours">
+    <title>Office hours by appointment (Zoom)</title>
+    <p>
+      If you cannot stop by in-person, you can make an appointment for Zoom office hours.
+      To promote productivity and maximize time efficiency, online office hour appointments are made online 
+      through <url href="https://outlook.office365.com/owa/calendar/MathOfficeHours@cofc.edu/bookings/">Microsoft Booking</url>.
+      Please see below for more details:
+    </p>
+    <paragraphs>
+      <ul>
+        <li>
+          Any appointments must be made via 
+          <url href="https://outlook.office365.com/owa/calendar/MathOfficeHours@cofc.edu/bookings/">this link</url>.
+          If all office hours conflict with your course or work schedules, please send me an email with suggestions for an appointment.
+        </li>
+        <li>After clicking on the link, you need to use your CofC credentials to see available times.</li>
+        <li>
+          If there are available time slots, booking appointments need at least 24 hours and at most two weeks lead time.
+          Please book one appointment in advance before making another one.
+        </li>
+        <li>
+          After making an appointment, you will receive an automatic confirmation, which includes the Zoom link
+          to our meeting and a <em>Manage booking</em> option.
+          Follow that link to reschedule or cancel your appointment.
+          If you must cancel or change your appointment, please do it as soon as possible.
+        </li>
+      </ul>
+    </paragraphs>
+  </subsection>
+</section>
