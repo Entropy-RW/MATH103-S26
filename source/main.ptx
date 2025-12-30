@@ -21,6 +21,10 @@
     <xi:include href="./section-4.ptx" />
     <xi:include href="./section-5.ptx" />
     <xi:include href="./section-6.ptx" />
+    <xi:include href="./section-7.ptx" />
+    <xi:include href="./section-8.ptx" />
+    <xi:include href="./section-9.ptx" />
+    <xi:include href="./section-10.ptx" />
   </article>
 
 </pretext>

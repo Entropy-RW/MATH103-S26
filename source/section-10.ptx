@@ -1,0 +1,92 @@
+<section xml:id="grades">
+  <title>How are our grades calculated?</title>
+
+
+  <p>
+    The grades will <term>tentatively</term> be calculated based on:
+  </p>
+
+  <table xml:id="grade-distribution">
+  <title>Grade Distribution</title>
+
+  <tabular>
+    <row>
+      <cell>Test 1</cell>
+      <cell>20%</cell>
+    </row>
+    <row>
+      <cell>Test 2</cell>
+      <cell>20%</cell>
+    </row>
+    <row>
+      <cell>Test 3</cell>
+      <cell>20%</cell>
+    </row>
+    <row>
+      <cell>Final Exam</cell>
+      <cell>25%</cell>
+    </row>
+    <row>
+      <cell>Quizzes</cell>
+      <cell>15%</cell>
+    </row>
+  </tabular>
+</table>
+
+  <ul>
+    <li>
+      Test 1, 20%:
+      <term>Tuesday, September 19</term>.
+      Details will be announced in OAKS.
+    </li>
+    <li>
+      Test 2, 20%:
+      <term>Thursday, October 12</term>.
+      Details will be announced in OAKS.
+    </li>
+    <li>
+      Test 3, 20%:
+      <term>Thursday, November 16</term>.
+      Details will be announced in OAKS.
+    </li>
+    <li>
+      Final, 25%:
+      <term> Tuesday, April 28</term>, 1:00–3:00 PM.
+      Details will be announced in OAKS
+      (<url href="https://charleston.edu/registrar/calendar/index.php#accordion-c1099df6-9958-4f72-8631-c8ef5a941a8c-1">
+        according to the CofC final schedule
+      </url>).
+    </li>
+    <li>
+      Quizzes, 15%:
+      Online quizzes posted in OAKS.
+    </li>
+  </ul>
+
+  <p>
+    The following scale describes the letter-grade assignment:
+  </p>
+
+<table xml:id="grading-scale">
+  <title>Grading Scale</title>
+  <tabular>
+    <row>
+      <cell>Letter Grade</cell>
+      <cell>Percentage Range</cell>
+    </row>
+    <row><cell>A</cell><cell>93–100%</cell></row>
+    <row><cell>A−</cell><cell>90–92%</cell></row>
+    <row><cell>B+</cell><cell>87–89%</cell></row>
+    <row><cell>B</cell><cell>83–86%</cell></row>
+    <row><cell>B−</cell><cell>80–82%</cell></row>
+    <row><cell>C+</cell><cell>77–79%</cell></row>
+    <row><cell>C</cell><cell>73–76%</cell></row>
+    <row><cell>C−</cell><cell>70–72%</cell></row>
+    <row><cell>D+</cell><cell>67–69%</cell></row>
+    <row><cell>D</cell><cell>63–66%</cell></row>
+    <row><cell>D−</cell><cell>60–62%</cell></row>
+    <row><cell>F</cell><cell>0–59%</cell></row>
+  </tabular>
+</table>
+
+</section>

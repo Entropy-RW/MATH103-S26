@@ -2,9 +2,31 @@
 <frontmatter>
   <bibinfo>
     <author>
-      <personname>B. Forghani</personname>
+      <personname>Behrang Forghani</personname>
     </author>
   </bibinfo>
-  
+  <epigraph>
+  <blockquote>
+     <p>
+    Education is not the learning of facts, but the training of the mind to think.
+      </p>
+  </blockquote>
+  <attribution>Albert Einstein</attribution>
+</epigraph>
+
+<hint>
+  <tabular>
+    <row>
+      <cell><term>Instructor:</term> Dr. Behrang Forghani</cell>
+      <cell><term>Semester:</term> Spring 2026</cell>
+      <cell><term>Credits:</term> 3</cell>
+    </row>
+    <row>
+      <cell><term>Class Meetings:</term> MW 2:00-3:15 PM</cell>
+      <cell><term>Meeting Type:</term> In Person</cell>
+      <cell><term>Location:</term> RSS 252</cell>
+    </row>
+  </tabular>
+</hint>
 
 </frontmatter>
