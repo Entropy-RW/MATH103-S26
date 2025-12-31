@@ -75,17 +75,17 @@
       <cell>Percentage Range</cell>
     </row>
     <row><cell>A</cell><cell>93–100%</cell></row>
-    <row><cell>A−</cell><cell>90–92%</cell></row>
-    <row><cell>B+</cell><cell>87–89%</cell></row>
-    <row><cell>B</cell><cell>83–86%</cell></row>
-    <row><cell>B−</cell><cell>80–82%</cell></row>
-    <row><cell>C+</cell><cell>77–79%</cell></row>
-    <row><cell>C</cell><cell>73–76%</cell></row>
-    <row><cell>C−</cell><cell>70–72%</cell></row>
-    <row><cell>D+</cell><cell>67–69%</cell></row>
-    <row><cell>D</cell><cell>63–66%</cell></row>
-    <row><cell>D−</cell><cell>60–62%</cell></row>
-    <row><cell>F</cell><cell>0–59%</cell></row>
+    <row><cell>A−</cell><cell>90–92.99%</cell></row>
+    <row><cell>B+</cell><cell>87–89.99%</cell></row>
+    <row><cell>B</cell><cell>83–86.99%</cell></row>
+    <row><cell>B−</cell><cell>80–82.99%</cell></row>
+    <row><cell>C+</cell><cell>77–79.99%</cell></row>
+    <row><cell>C</cell><cell>73–76.99%</cell></row>
+    <row><cell>C−</cell><cell>70–72.99%</cell></row>
+    <row><cell>D+</cell><cell>67–69.99%</cell></row>
+    <row><cell>D</cell><cell>63–66.99%</cell></row>
+    <row><cell>D−</cell><cell>60–62.99%</cell></row>
+    <row><cell>F</cell><cell>0–59.99%</cell></row>
   </tabular>
 </table>
 
