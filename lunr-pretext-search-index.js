@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Front Matter",
   "number": "",
   "title": "Front Matter",
-  "body": "  Behrang Forghani     Education is not the learning of facts, but the training of the mind to think.   Albert Einstein      Instructor: Dr. Behrang Forghani  Semester: Spring 2026  Credits: 3    Class Meetings: MW 2:00-3:15 PM  Meeting Type: In Person  Location: RSS 252     "
+  "body": "  Behrang Forghani     Education is not the learning of facts, but the training of the mind to think.   Albert Einstein     Instructor: Dr. Behrang Forghani    Course: MATH 103, section 10    Semester: Spring 2026    Credits: 3    Class Meetings: Mondays and Wednesdays 2:00–3:15 PM    Meeting Type: In Person    Location: Robert Scott Small 252    "
 },
 {
   "id": "section-course-requirements",
@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1",
   "title": "What do we require for this course?",
-  "body": " What do we require for this course?    We will mostly follow the textbook  Excursions in Modern Mathematics  , by Peter Tannenbaum, 10th edition.  We also use Set Theory and Logic by A. Calini, E. Jurisich, and S. Shields, available in OAKS.  We require a reasonable laptop, microphone, webcam, and internet access. CofC provided laptop suggestions at this link .  We require you to create a Gradescope account to see feedback for tests. More details will be posted after the first test. Please refrain from creating an account until you receive the link and instructions.    "
+  "body": " What do we require for this course?    We will mostly follow the textbook  Excursions in Modern Mathematics  , by Peter Tannenbaum, 10th edition.  We also use Set Theory and Logic by A. Calini, E. Jurisich, and S. Shields, available in OAKS.  We require a reasonable laptop, microphone, webcam, and internet access.  We require you to create a Gradescope account to see feedback for tests. More details will be posted after the first test. Please refrain from creating an account until you receive the link and instructions.    "
 },
 {
   "id": "section-course-requirements-2",
@@ -142,7 +142,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10",
   "title": "How are our grades calculated?",
-  "body": " How are our grades calculated?  The grades will tentatively be calculated based on:   Grade Distribution    Test 1  20%    Test 2  20%    Test 3  20%    Final Exam  25%    Quizzes  15%      Test 1, 20%: Tuesday, September 19 . Details will be announced in OAKS.  Test 2, 20%: Thursday, October 12 . Details will be announced in OAKS.  Test 3, 20%: Thursday, November 16 . Details will be announced in OAKS.  Final, 25%: Tuesday, April 28 , 1:00–3:00 PM. Details will be announced in OAKS ( according to the CofC final schedule ).  Quizzes, 15%: Online quizzes posted in OAKS.   The following scale describes the letter-grade assignment:   Grading Scale    Letter Grade  Percentage Range   A 93–100%  A− 90–92%  B+ 87–89%  B 83–86%  B− 80–82%  C+ 77–79%  C 73–76%  C− 70–72%  D+ 67–69%  D 63–66%  D− 60–62%  F 0–59%    "
+  "body": " How are our grades calculated?  The grades will tentatively be calculated based on:   Grade Distribution    Test 1  20%    Test 2  20%    Test 3  20%    Final Exam  25%    Quizzes  15%      Test 1, 20%: Tuesday, September 19 . Details will be announced in OAKS.  Test 2, 20%: Thursday, October 12 . Details will be announced in OAKS.  Test 3, 20%: Thursday, November 16 . Details will be announced in OAKS.  Final, 25%: Tuesday, April 28 , 1:00–3:00 PM. Details will be announced in OAKS ( according to the CofC final schedule ).  Quizzes, 15%: Online quizzes posted in OAKS.   The following scale describes the letter-grade assignment:   Grading Scale    Letter Grade  Percentage Range   A 93–100%  A− 90–92.99%  B+ 87–89.99%  B 83–86.99%  B− 80–82.99%  C+ 77–79.99%  C 73–76.99%  C− 70–72.99%  D+ 67–69.99%  D 63–66.99%  D− 60–62.99%  F 0–59.99%    "
 },
 {
   "id": "grades-2",
@@ -169,7 +169,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "10.2",
   "title": "Grading Scale",
-  "body": " Grading Scale    Letter Grade  Percentage Range   A 93–100%  A− 90–92%  B+ 87–89%  B 83–86%  B− 80–82%  C+ 77–79%  C 73–76%  C− 70–72%  D+ 67–69%  D 63–66%  D− 60–62%  F 0–59%   "
+  "body": " Grading Scale    Letter Grade  Percentage Range   A 93–100%  A− 90–92.99%  B+ 87–89.99%  B 83–86.99%  B− 80–82.99%  C+ 77–79.99%  C 73–76.99%  C− 70–72.99%  D+ 67–69.99%  D 63–66.99%  D− 60–62.99%  F 0–59.99%   "
 },
 {
   "id": "shorttitlelowercase-14",
