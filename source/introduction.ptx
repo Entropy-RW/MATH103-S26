@@ -1,5 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <introduction xml:id="intro" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <p>Some words before the first section of the paper</p>
-    <p>Some more words.</p>
+   
+  <epigraph>
+  <blockquote>
+     <p>
+    Education is not the learning of facts, but the training of the mind to think.
+      </p>
+  </blockquote>
+  <attribution>Albert Einstein</attribution>
+</epigraph>
+
+ <tableofcontents/>
+<tabular>
+  <row>
+    <cell><term>Instructor:</term> Dr. Behrang Forghani</cell>
+  </row>
+    <row>
+    <cell><term>Course:</term> MATH 103, section 10</cell>
+  </row>
+  <row>
+    <cell><term>Semester:</term> Spring 2026</cell>
+  </row>
+  <row>
+    <cell><term>Credits:</term> 3</cell>
+  </row>
+  <row>
+    <cell><term>Class Meetings:</term> Mondays and Wednesdays 2:00–3:15 PM</cell>
+  </row>
+  <row>
+    <cell><term>Meeting Type:</term> In Person</cell>
+  </row>
+  <row>
+    <cell><term>Location:</term> Robert Scott Small 252</cell>
+  </row>
+</tabular>
+
+  
+  <table>
+     <title>Scheduled Test Dates</title>
+  
+  <tabular>
+    <row>
+      <cell><emph>Assessment</emph></cell>
+      <cell><emph>Date</emph></cell>
+      <cell><emph>Format</emph></cell>
+    </row>
+
+    <row>
+      <cell>Test 1</cell>
+      <cell><term>Wednesday, Feb 4</term></cell>
+      <cell>In-person</cell>
+    </row>
+
+    <row>
+      <cell>Test 2</cell>
+      <cell><term>Monday, March 16</term></cell>
+      <cell>In-person</cell>
+    </row>
+
+    <row>
+      <cell>Test 3</cell>
+      <cell><term>Wednesday, April 15</term></cell>
+      <cell>In-person</cell>
+    </row>
+
+    <row>
+      <cell>Final Exam</cell>
+      <cell><term>Tuesday, April 28</term>, 1:00–3:00 PM</cell>
+      <cell>In-person</cell>
+    </row>
+  </tabular>
+</table>
 </introduction>

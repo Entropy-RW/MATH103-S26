@@ -12,5 +12,12 @@
           https://pretextbook.org/doc/guide/html/appendix-journals.html#appendix-journals -->
 
         <!--<journal name="ams" /> -->
-    </common>
+    <tableofcontents level="2"/>
+  </common>
+  
+  <latex>
+    <page>
+      <geometry>margin=0.9in</geometry>
+    </page>
+  </latex>
 </publication>

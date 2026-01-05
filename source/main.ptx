@@ -10,11 +10,10 @@
   </docinfo>
 
   <article xml:id="shorttitlelowercase">
-    <title>Contemporary Mathematics (MATH 103)</title>
+    <title>MATH 103-10: Contemporary Mathematics with applications</title>
 
-    <xi:include href="./frontmatter.ptx" />
+    <xi:include href="./section-0.ptx" />
     
-    <xi:include href="./introduction.ptx" />
     <xi:include href="./section-1.ptx" />
     <xi:include href="./section-2.ptx" />
     <xi:include href="./section-3.ptx" />
