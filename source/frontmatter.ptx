@@ -37,7 +37,29 @@
     <cell><term>Location:</term> Robert Scott Small 252</cell>
   </row>
 </tabular>
-
-
-
+<note>
+  <title>Scheduled Test Dates</title>
+  
+   <ul>
+    <li>
+      Test 1, 20%:
+      <term>Wednesday, Feb 4</term>.
+      in-person.
+    </li>
+    <li>
+      Test 2, 20%:
+      <term>Monday March 16</term>.
+      in-person.
+    </li>
+    <li>
+      Test 3, 20%:
+      <term>Wednesday April 15</term>.
+     in-person.
+    </li>
+    <li>
+      Final, 25%:
+      <term> Tuesday, April 28</term>, 1:00–3:00 PM, in-person.
+    </li>
+    </ul>
+  </note>
 </frontmatter>

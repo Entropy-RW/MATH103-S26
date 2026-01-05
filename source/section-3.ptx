@@ -9,39 +9,63 @@
   <subsection xml:id="subsection-course-description">
     <title>Course Description</title>
     <p>
-      This course is designed for students who are not planning to take more advanced mathematics courses
-      and are interested in learning about the central role of Mathematics in the modern world.
-      The course will help students develop analytical skills and the ability to read and write
-      expositions of mathematical ideas suitable for a well-educated non-expert reader.
-      A wide range of topics will be discussed, including logic, voting theory and fair division,
-      graphs and networks, and symmetry in art and nature.
+ This course is designed to introduce students to a variety of 
+ mathematical topics and applications.  
+ Topics covered will include set theory, logic, voting methods, 
+ counting methods, growth and financial math. 
+ The course emphasis is on critical thinking, reading and 
+ writing in mathematics. 
     </p>
+  </subsection>
+
+  <subsection>
+    <title>Topics</title>
+   <p> We intend to cover the topics listed below.
+    The order, emphasis, and amount of material covered may vary. </p>
+    <ul>
+<li> The Mathematics of Elections</li>
+<li> The Mathematics of Power </li>
+<li> The Mathematics of Sharing </li>
+<li> Graphs and its Applications </li>
+<li> Financial Mathematics </li>
+<li> Logic with 
+Applications to Natural Language </li>
+    </ul>
+    
   </subsection>
 
   <subsection xml:id="subsection-general-education-outcomes">
     <title>General Education Student Learning Outcomes</title>
     <p>
-      Students are expected to display a thorough understanding of the topics covered. In particular,
-      upon completion of the course, students will be able to:
+     In this course, we will provide evidence for assessment of 
+     Problem Solving. Students will apply appropriate methods to obtain conclusions. 
+     More specifically, students will be able to:
     </p>
     <paragraphs>
-      <ul>
-        <li>Model phenomena in mathematical terms.</li>
-        <li>Solve problems using these models.</li>
-        <li>Demonstrate an understanding of the supporting theory behind the models apart from any particular application.</li>
-      </ul>
+   <ol>
+  <li> Clearly identify or define a problem.</li>
+  <li>Use a discipline-specific model to perform an analysis or procedure.</li>
+  <li>Draw a well-supported logical conclusion.</li>
+   </ol>
     </paragraphs>
   </subsection>
-
+    <p>These outcomes will be assessed in the final exam.</p>
   <subsection xml:id="subsection-course-specific-outcomes">
     <title>Course Specific Student Learning Outcomes</title>
     <paragraphs>
-      <ul>
-        <li>Translate English expressions into expressions of Propositional Logic to determine the relation between a complex sentence and its parts in a systematic and unambiguous way.</li>
-        <li>Employ methods of Propositional Logic, including truth tables, to determine under what conditions statements are true or false, and when logical arguments are valid or invalid.</li>
-        <li>Use basic logic, algebra, counting techniques, and combinatorics to solve problems arising in a variety of contemporary application areas, that may include social sciences, management science, finance, and art.</li>
-      </ul>
+     <ol>
+  <li>Translate English expressions into expressions of 
+    Propositional Logic to determine the relation between a 
+    complex sentence and its parts in a systematic and unambiguous way.</li>
+  <li>Employ methods of Propositional Logic, including truth tables, to determine 
+    under what conditions statements are true or false, 
+    and when logical arguments are valid or invalid.</li>
+  <li>Use basic logic, algebra, counting 
+    techniques, and combinatorics to solve problems 
+    arising in a variety of contemporary application areas.</li>
+</ol>
+
     </paragraphs>
-    <p>These outcomes will be assessed on the tests and quizzes.</p>
+
   </subsection>
 </section>

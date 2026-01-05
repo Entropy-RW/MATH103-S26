@@ -11,6 +11,14 @@
 
   <tabular>
     <row>
+      <cell>Quizzes</cell>
+      <cell>10%</cell>
+    </row>
+    <row>
+      <cell>Active Participation</cell>
+      <cell>10%</cell>
+    </row>
+    <row>
       <cell>Test 1</cell>
       <cell>20%</cell>
     </row>
@@ -24,29 +32,26 @@
     </row>
     <row>
       <cell>Final Exam</cell>
-      <cell>25%</cell>
+      <cell>20%</cell>
     </row>
-    <row>
-      <cell>Quizzes</cell>
-      <cell>15%</cell>
-    </row>
+ 
   </tabular>
 </table>
 
   <ul>
     <li>
       Test 1, 20%:
-      <term>Tuesday, September 19</term>.
+      <term>Feb 4</term>.
       Details will be announced in OAKS.
     </li>
     <li>
       Test 2, 20%:
-      <term>Thursday, October 12</term>.
+      <term>March 16</term>.
       Details will be announced in OAKS.
     </li>
     <li>
       Test 3, 20%:
-      <term>Thursday, November 16</term>.
+      <term>April 15</term>.
       Details will be announced in OAKS.
     </li>
     <li>
