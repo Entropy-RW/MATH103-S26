@@ -9,7 +9,7 @@
     <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
   </docinfo>
 
-  <article xml:id="shorttitlelowercase">
+  <article xml:id="syllabus">
     <title>MATH 103 (section 10): Contemporary Mathematics with applications</title>
 
     <xi:include href="./section-0.ptx" />
