@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <introduction xml:id="intro" xmlns:xi="http://www.w3.org/2001/XInclude">
    
-  <epigraph>
+<epigraph>
   <blockquote>
-     <p>
-    Education is not the learning of facts, but the training of the mind to think.
-      </p>
+    <p>
+      <latex>
+\begin{PTXEpigraphBox}
+Education is not the learning of facts, but the training of the mind to think.
+\end{PTXEpigraphBox}
+      </latex>
+    </p>
   </blockquote>
   <attribution>Albert Einstein</attribution>
 </epigraph>

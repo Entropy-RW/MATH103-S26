@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <publication>
-    <!-- directories are relative to the main source PreTeXt file -->
-    <source>
-        <directories external="../assets" generated="../generated-assets"/>
-    </source>
+  <!-- directories are relative to the main source PreTeXt file -->
+  <source>
+    <directories external="../assets" generated="../generated-assets"/>
+  </source>
 
-    <common>
-        <!-- When writing an article for a specific journal, you can   -->
-        <!-- specify the name of the journal to get appropriate latex. -->
-        <!-- See the guide for a list of valid names:
-          https://pretextbook.org/doc/guide/html/appendix-journals.html#appendix-journals -->
-
-        <!--<journal name="ams" /> -->
+  <common>
     <tableofcontents level="2"/>
   </common>
-  
+
   <latex>
     <page>
       <geometry>margin=0.9in</geometry>
     </page>
+
+    <preamble>
+      <late>
+\usepackage[most]{tcolorbox}
+\tcbset{
+  colback=blue!5!white,
+  colframe=blue!60!black,
+  boxrule=0.6pt,
+  arc=3pt,
+  left=6pt,right=6pt,top=6pt,bottom=6pt
+}
+\newtcolorbox{PTXEpigraphBox}{breakable}
+      </late>
+    </preamble>
   </latex>
 </publication>

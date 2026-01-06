@@ -40,7 +40,7 @@
 
   <ul>
     <li>
-      Test 1, 20%:
+      Test 1,
       <term>Feb 4</term>.
       Details will be announced in OAKS.
     </li>
@@ -57,14 +57,12 @@
     <li>
       Final, 
       <term> Tuesday, April 28</term>, 1:00–3:00 PM.
-      Details will be announced in OAKS
       (<url href="https://charleston.edu/registrar/calendar/index.php#accordion-c1099df6-9958-4f72-8631-c8ef5a941a8c-1">
         according to the CofC final schedule
-      </url>).
+      </url>).   Details will be announced in OAKS.
     </li>
     <li>
-      Quizzes, 15%:
-      Online quizzes posted in OAKS.
+      Quizzes (almost weekly) will be online in OAKS. 
     </li>
   </ul>
 
@@ -79,18 +77,18 @@
       <cell>Letter Grade</cell>
       <cell>Percentage Range</cell>
     </row>
-    <row><cell>A</cell><cell>93–100%</cell></row>
-    <row><cell>A−</cell><cell>90–92.99%</cell></row>
-    <row><cell>B+</cell><cell>87–89.99%</cell></row>
-    <row><cell>B</cell><cell>83–86.99%</cell></row>
-    <row><cell>B−</cell><cell>80–82.99%</cell></row>
-    <row><cell>C+</cell><cell>77–79.99%</cell></row>
-    <row><cell>C</cell><cell>73–76.99%</cell></row>
-    <row><cell>C−</cell><cell>70–72.99%</cell></row>
-    <row><cell>D+</cell><cell>67–69.99%</cell></row>
-    <row><cell>D</cell><cell>63–66.99%</cell></row>
-    <row><cell>D−</cell><cell>60–62.99%</cell></row>
-    <row><cell>F</cell><cell>0–59.99%</cell></row>
+    <row><cell>A</cell><cell>93–100</cell></row>
+    <row><cell>A−</cell><cell>90–92.99</cell></row>
+    <row><cell>B+</cell><cell>87–89.99</cell></row>
+    <row><cell>B</cell><cell>83–86.99</cell></row>
+    <row><cell>B−</cell><cell>80–82.99</cell></row>
+    <row><cell>C+</cell><cell>77–79.99</cell></row>
+    <row><cell>C</cell><cell>73–76.99</cell></row>
+    <row><cell>C−</cell><cell>70–72.99</cell></row>
+    <row><cell>D+</cell><cell>67–69.99</cell></row>
+    <row><cell>D</cell><cell>63–66.99</cell></row>
+    <row><cell>D−</cell><cell>60–62.99</cell></row>
+    <row><cell>F</cell><cell>0–59.99</cell></row>
   </tabular>
 </table>
 
