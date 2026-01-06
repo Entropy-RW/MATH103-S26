@@ -3,7 +3,7 @@
 
   <docinfo>
 
-    <document-id>authorslastnamelowercase-ShortTitleCamelCase</document-id>
+    <document-id>Forghani-syllabusmath103</document-id>
 
     <macros>\newcommand{\foo}{b^{ar}}</macros>
     <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
