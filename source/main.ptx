@@ -11,7 +11,7 @@
 
   <article xml:id="syllabus">
     <title>MATH 103 (section 10): Contemporary Mathematics with applications</title>
-
+<shorttitle>syllabus</shorttitle>
     <xi:include href="./section-0.ptx" />
     
     <xi:include href="./section-1.ptx" />
