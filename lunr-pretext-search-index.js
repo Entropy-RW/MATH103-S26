@@ -1,18 +1,18 @@
 var ptx_lunr_search_style = "textbook";
 var ptx_lunr_docs = [
 {
-  "id": "syllabus-2",
+  "id": "syllabus-3",
   "level": "1",
-  "url": "syllabus-2.html",
+  "url": "syllabus-3.html",
   "type": "Section",
   "number": "1",
   "title": "Introduction",
   "body": " Introduction    Education is not the learning of facts, but the training of the mind to think.   Albert Einstein     Instructor: Dr. Behrang Forghani    Course: MATH 103, section 10    Semester: Spring 2026    Credits: 3    Class Meetings: Mondays and Wednesdays 2:00–3:15 PM    Meeting Type: In Person    Location: Robert Scott Small 252     Scheduled Test Dates    Assessment  Date  Format    Test 1  Wednesday, Feb 4  In-person    Test 2  Monday, March 16  In-person    Test 3  Wednesday, April 15  In-person    Final Exam  Tuesday, April 28 , 1:00–3:00 PM  In-person     "
 },
 {
-  "id": "syllabus-2-4",
+  "id": "syllabus-3-4",
   "level": "2",
-  "url": "syllabus-2.html#syllabus-2-4",
+  "url": "syllabus-3.html#syllabus-3-4",
   "type": "Table",
   "number": "1.1",
   "title": "Scheduled Test Dates",
@@ -217,45 +217,45 @@ var ptx_lunr_docs = [
   "body": " Grading Scale    Letter Grade  Percentage Range   A 93–100  A− 90–92.99  B+ 87–89.99  B 83–86.99  B− 80–82.99  C+ 77–79.99  C 73–76.99  C− 70–72.99  D+ 67–69.99  D 63–66.99  D− 60–62.99  F 0–59.99   "
 },
 {
-  "id": "syllabus-13",
+  "id": "syllabus-14",
   "level": "1",
-  "url": "syllabus-13.html",
+  "url": "syllabus-14.html",
   "type": "Section",
   "number": "12",
   "title": "What else should we know about the quizzes and exams?",
   "body": " What else should we know about the quizzes and exams?   Check OAKS frequently for due dates. No separate announcements will be sent for quizzes or tests.  Since each quiz requires only 10–15 minutes to complete and remains available for at least four days before the due date, late submissions will not be accepted .  Makeup exams will only be offered under the most severe circumstances , such as serious illness, family emergencies, quarantine, etc. If you anticipate such an event, please notify me as soon as possible.  I may not provide solutions for quizzes or exams. I encourage you to use office hours to ask your questions.  You might be asked to explain your quizzes or exams in a private office-hours meeting. Your explanation may impact the grading of that assignment.    Active Participation  Ten percent of your grade is based on active participation , which means that you regularly attend lectures, actively engage in class by asking and answering questions, contributing to group work, and following the expectations discussed in . Note that missing four or more unexcused lectures (each lecture is considered as 75 minutes) will result in a zero percent score for this component. The active participation grade is assessed at the instructor’s discretion.   "
 },
 {
-  "id": "syllabus-13-3-2",
+  "id": "syllabus-14-3-2",
   "level": "2",
-  "url": "syllabus-13.html#syllabus-13-3-2",
+  "url": "syllabus-14.html#syllabus-14-3-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "active participation four or more unexcused "
 },
 {
-  "id": "syllabus-14",
+  "id": "syllabus-15",
   "level": "1",
-  "url": "syllabus-14.html",
+  "url": "syllabus-15.html",
   "type": "Section",
   "number": "13",
   "title": "What else should we know?",
   "body": " What else should we know?   Check OAKS frequently for due dates and announcements.  In unpredictable events, lectures may be conducted via Zoom or online. Details will be provided in OAKS.    CofC Evacuation Policy  If the College of Charleston closes and members of the community are evacuated due to inclement weather, students are responsible for taking course materials with them in order to continue with course assignments consistent with instructions provided by faculty. In cases of extended periods of institution-wide closure where students have relocated, instructors may articulate a plan that allows for supplemental academic engagement despite these circumstances.    Attendance Verification  I am required to report attendance verification by noon Jan 23. Students who did not complete My story in OAKS by Jan 21 will be reported as absent , which causes them to be removed from the class roaster.    What are important academic dates?  Please check the Spring 2026 academic calendar here .    I reserve the right to modify any part of the syllabus as the semester progresses. In that case, I will announce changes in class.   "
 },
 {
-  "id": "syllabus-14-4-2",
+  "id": "syllabus-15-4-2",
   "level": "2",
-  "url": "syllabus-14.html#syllabus-14-4-2",
+  "url": "syllabus-15.html#syllabus-15-4-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "absent "
 },
 {
-  "id": "syllabus-14-6",
+  "id": "syllabus-15-6",
   "level": "2",
-  "url": "syllabus-14.html#syllabus-14-6",
+  "url": "syllabus-15.html#syllabus-15-6",
   "type": "Note",
   "number": "13.1",
   "title": "",
