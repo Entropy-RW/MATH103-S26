@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2",
   "title": "What do we require for this course?",
-  "body": " What do we require for this course?    We will mostly follow the textbook  Excursions in Modern Mathematics  , by Peter Tannenbaum, 10th edition.  We also use Notes on Logic with Applications to Natural Language by Annalisa Calini, Elizabeth Jurisich, and Sandra Shields, will be available in OAKS.  We require a reasonable laptop, microphone, webcam, and internet access.  We require you to create a Gradescope account to see feedback for tests. More details will be posted before the first test. Please refrain from creating an account until you receive the link and instructions.    "
+  "body": " What do we require for this course?    We will mostly follow the textbook  Excursions in Modern Mathematics  , by Peter Tannenbaum, 10th edition.  We also use Notes on Logic with Applications to Natural Language by Annalisa Calini, Elizabeth Jurisich, and Sandra Shields, will be available in OAKS.  We require a reasonable laptop, microphone, webcam, and internet access.  We require to have a calculator for exams.  We require you to create a Gradescope account to see feedback for tests. More details will be posted before the first test. Please refrain from creating an account until you receive the link and instructions.    "
 },
 {
   "id": "section-course-requirements-2",
