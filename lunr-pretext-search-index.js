@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1",
   "title": "Introduction",
-  "body": " Introduction    Education is not the learning of facts, but the training of the mind to think.   Albert Einstein     Instructor: Dr. Behrang Forghani    Course: MATH 103, section 10    Semester: Spring 2026    Credits: 3    Class Meetings: Mondays and Wednesdays 2:00–3:15 PM    Meeting Type: In Person    Location: Robert Scott Small 252     Scheduled Test Dates    Assessment  Date  Format    Test 1  Wednesday, Feb 4  In-person    Test 2  Monday, March 16  In-person    Test 3  Wednesday, April 15  In-person    Final Exam  Tuesday, April 28 , 1:00–3:00 PM  In-person     "
+  "body": " Introduction    Education is not the learning of facts, but the training of the mind to think.   Albert Einstein     Instructor: Dr. Behrang Forghani    Course: MATH 103, section 10    Semester: Spring 2026    Credits: 3    Class Meetings: Mondays and Wednesdays 2:00–3:15 PM    Meeting Type: In Person    Location: Robert Scott Small 252     Scheduled Test Dates    Assessment  Date  Format    Test 1  Wednesday, Feb 4  In-person    Test 2  Monday, March 16  Online    Test 3  Wednesday, April 15  In-person    Final Exam  Tuesday, April 28 , 1:00–3:00 PM  In-person     "
 },
 {
   "id": "syllabus-3-4",
@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "1.1",
   "title": "Scheduled Test Dates",
-  "body": " Scheduled Test Dates    Assessment  Date  Format    Test 1  Wednesday, Feb 4  In-person    Test 2  Monday, March 16  In-person    Test 3  Wednesday, April 15  In-person    Final Exam  Tuesday, April 28 , 1:00–3:00 PM  In-person    "
+  "body": " Scheduled Test Dates    Assessment  Date  Format    Test 1  Wednesday, Feb 4  In-person    Test 2  Monday, March 16  Online    Test 3  Wednesday, April 15  In-person    Final Exam  Tuesday, April 28 , 1:00–3:00 PM  In-person    "
 },
 {
   "id": "section-course-requirements",
